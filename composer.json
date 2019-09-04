@@ -28,7 +28,7 @@
     "orchestra/testbench": "3.9.x@dev"
   },
   "require-dev": {
-    "phpunit/phpunit": "8.3.*",
+    "phpunit/phpunit": "dev-master",
     "mockery/mockery": "^1.1",
     "orchestra/database": "^3.8",
     "predis/predis": "^1.1"
